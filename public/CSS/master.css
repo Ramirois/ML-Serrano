@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.header{
+    background-color: #EAC926;;
+}
+
+.barra-nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+.burger-menu{
+    text-align: center;
+    background-color: #1259c3;
+    color: #FFFFFF;
+    width:40px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10%;
+    font-size: 24px;
+}
+
+.leyenda-inicio{
+    margin: auto;
+    text-align: center;
+}
